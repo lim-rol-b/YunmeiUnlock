@@ -1,0 +1,31 @@
+.DS_Store
+
+# Xcode user-specific files
+xcuserdata/
+*.xcuserstate
+*.xcuserdatad/
+*.xccheckout
+*.xcscmblueprint
+
+# Build products
+build/
+DerivedData/
+*.xcarchive
+*.ipa
+*.dSYM
+*.dSYM.zip
+
+# Signing material
+*.mobileprovision
+*.provisionprofile
+*.p12
+*.cer
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# Local tooling
+.codex/
+.agents/
